@@ -2,7 +2,7 @@
 
 <h4 align="center">Updates covering the electric motorcycle industry</h4> <br>
  
-
+👨🏾‍💻
 ## Intro
 
 This project allows you to select from a list of fully electric motorcycles to see the latest updates from a variety of recent articles. 
