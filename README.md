@@ -17,6 +17,7 @@ This project allows you to select from a list of fully electric motorcycles to s
 * Implement “leadingSwipeActionsConfigurationForRowAt” to favorite articles.
 * Have favorited articles saved with CoreData functions. 
 * Load URL's with external browser. 
+* To make your version of this, you'll need to get a free API key from newsapi.org .
 <br>
 
 ## Instructions
