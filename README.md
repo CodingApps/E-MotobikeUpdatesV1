@@ -22,7 +22,7 @@ This project allows you to select from a list of fully electric motorcycles to s
 ## Instructions
 -After selecting an E-Bike, you'll see a list of articles and can swipe right to favorite an article. You can also long-press to load the article in an external browser. 
 
--You can tap on the "Favorites" tab at the bottom of the article list to see the ones you've favorited. A long-press on a favorited article will also load it in a browser. 
+-You can tap on the "Favorites" tab at the bottom of the article list to see the ones you've favorited. A tap on a favorited article will also load it in a browser. 
 
 -The app can be closed, then reloaded, and the favorited articles will remain in their tab. 
 
