@@ -1,4 +1,4 @@
-<h1 align="center"> E-BikeUpdates </h1> <br>
+<h1 align="center"> E-Motobike-Updates </h1> <br>
 
 <h4 align="center">Updates covering the electric motorcycle industry</h4> <br>
  
