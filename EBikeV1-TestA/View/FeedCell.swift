@@ -2,7 +2,11 @@
 //  FeedCell.swift
 //  EBikeV1-TestA
 //
-//  Created 9/5/18.
+//  Open Source
+//
+//  Copyright © 2022 Rick
+//
+//  Open Source, The MIT License (MIT)
 //
 
 import UIKit

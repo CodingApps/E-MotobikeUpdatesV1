@@ -2,8 +2,11 @@
 //  AppDelegate.swift
 //  EBikeV1-TestA
 //
-//  Created 9/5/18.
-//  Copyright © 2018 Rick Mc. All rights reserved.
+//  Open Source
+//
+//  Copyright © 2022 Rick
+//
+//  Open Source, The MIT License (MIT)
 //
 
 import UIKit

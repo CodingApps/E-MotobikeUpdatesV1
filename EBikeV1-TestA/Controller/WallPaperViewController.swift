@@ -2,9 +2,13 @@
 //  WallPaperViewController.swift
 //  EBikeV1-TestA
 //
-//  Created by modview on 9/17/22.
-//  Copyright © 2022 Rick Mc. All rights reserved.
+//  Open Source
 //
+//  Copyright © 2022 Rick
+//
+//  Open Source, The MIT License (MIT)
+//
+
 import UIKit
 
 struct Item {

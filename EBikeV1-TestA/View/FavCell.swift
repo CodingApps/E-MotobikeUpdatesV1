@@ -2,8 +2,11 @@
 //  FavCell.swift
 //  EBikeV1-TestA
 //
-//  Created by Rick Mc on 9/15/18.
-//  Copyright © 2018 Rick Mc. All rights reserved.
+//  Open Source
+//
+//  Copyright © 2022 Rick
+//
+//  Open Source, The MIT License (MIT)
 //
 
 import UIKit
