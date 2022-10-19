@@ -1,9 +1,9 @@
-<h1 align="center"> E-BikeUpdates </h1> <br>
+<h1 align="center"> E-Motobike-Updates </h1> <br>
 
 <h4 align="center">Updates covering the electric motorcycle industry</h4> <br>
  
 
-## Intro
+## Intro 👩🏾‍💻👨🏾‍💻👋🏾💻✊🏾
 
 This project allows you to select from a list of fully electric motorcycles to see the latest updates from a variety of recent articles. 
 
@@ -17,6 +17,7 @@ This project allows you to select from a list of fully electric motorcycles to s
 * Implement “leadingSwipeActionsConfigurationForRowAt” to favorite articles.
 * Have favorited articles saved with CoreData functions. 
 * Load URL's with external browser. 
+* To make your version of this, you'll need to get a free API key from newsapi.org .
 <br>
 
 ## Instructions
